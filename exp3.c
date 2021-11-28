@@ -1,4 +1,4 @@
-//SYIT_A_08_Chauhan Abdurrahman Altaf
+//SYIT_A_14_ANSH YOGESH DWIVEDI
 //3.Implementations of Infix to Postfix Expression for real-world application.
 #include <stdio.h>
 #include <stdlib.h>
