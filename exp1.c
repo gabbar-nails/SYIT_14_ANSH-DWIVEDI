@@ -1,4 +1,4 @@
-//SYIT_A_08_Chauhan Abdurrahman Altaf
+//SYIT_A_14_ANSH YOGESH DWIVEDI
 //1.Implementation of Stack using Array for real-world application.
 #include <stdio.h>
 #include <stdlib.h>
